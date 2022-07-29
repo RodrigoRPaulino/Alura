@@ -1,0 +1,1 @@
+Tabela de classificação de jogadores com suas respectivas pontuações
